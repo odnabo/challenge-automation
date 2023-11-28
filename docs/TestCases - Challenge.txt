@@ -1,0 +1,18 @@
+Casos de prueba - Challenge
+
+Casos de Prueba 1: Inicio de sesión
+
+CP1: Login - Datos de usuario vacio
+CP2: Login - Datos de usuario bloqueado (locked_out_user)
+CP3: Login - Datos de usuario incorrectos (problem_user)
+CP4: Login - Datos de usuario correcto (standard_user)
+CP5: Logout - Desloguear usuario (standard_user)
+
+Casos de prueba 2: Agregar producto a carrito de compras
+
+CP6: Checkout - Realizar compra con carrito vacío
+CP7: Checkout - Agregar producto a carrito de compras
+CP8: Checkout - Eliminar producto de carrito de compras
+CP9: Checkout - Completar compra del carrito de compras sin item
+CP10: Checkout - Completar compra de un producto del carrito de compras
+
