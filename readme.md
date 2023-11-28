@@ -25,5 +25,14 @@ or generate static files
 
 `./allure-2.14.0/bin/allure generate`
 
+### JMeter
+
+Test Plan.jmx is in Docs folder
+
+### TestCases
+
+TestCases - Challenge is in Docs folder
+
+
 
 *With :heart: from Chile, Barbara Obando*
